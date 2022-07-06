@@ -21,6 +21,8 @@ Call of Dutyシリーズに存在するゾンビモードを参考に作った�
 お金で自身を強化していくことが出来る。
 こうしてどこまでいけるかを競うサバイバルゲームである。  
   
+### [作品のダウンロード](https://drive.google.com/drive/folders/10qCtv-LyuwGutwErUFJN6fsHPJILUeLh?usp=sharing)  
+  
 ## 開発目的  
 この作品は学校に入って初めてのオリジナル作品でした。
 Unity自体もこの時点では3ヵ月程しか触ってなかったが、その割には大分大掛かりな作品が出来たなと思っている。
